@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\bin\Debug\net8.0\Hospedagem-project.exe
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\bin\Debug\net8.0\Hospedagem-project.deps.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\bin\Debug\net8.0\Hospedagem-project.runtimeconfig.json
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\bin\Debug\net8.0\Hospedagem-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\bin\Debug\net8.0\Hospedagem-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\refint\Hospedagem-project.dll
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.pdb
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\Hospedagem-project.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\BootCamp's&Formações\DEV_formacao_C#\Hospedagem-project\obj\Debug\net8.0\ref\Hospedagem-project.dll
